@@ -1,0 +1,3 @@
+C:/Users/User/Desktop/Antra-1.5/vector programa/CMakeFiles/Pirmas.dir
+C:/Users/User/Desktop/Antra-1.5/vector programa/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/Antra-1.5/vector programa/CMakeFiles/rebuild_cache.dir

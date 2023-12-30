@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\Pirmas.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\Pirmas.dir/objects.a @CMakeFiles\Pirmas.dir\objects1.rsp
+C:\MinGW\bin\c++.exe -Wl,--whole-archive CMakeFiles\Pirmas.dir/objects.a -Wl,--no-whole-archive -o Pirmas.exe -Wl,--out-implib,libPirmas.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Pirmas.dir\linkLibs.rsp
